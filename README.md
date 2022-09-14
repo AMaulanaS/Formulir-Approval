@@ -1,3 +1,1 @@
-# Formulir-Approval (masih tahap pembangunan 2022 September)
-Pembuatan Aplikasi approval untuk pt.citra warna abadi
-<span>(Rubah File htaccess menjadi .htaccess) </span>
+<h3 align="center">Sistem Informasi Pengajuan Surat dan Monitoring Surat Menggunakan codeigniter framework</h3>
